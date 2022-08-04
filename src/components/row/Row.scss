@@ -1,0 +1,16 @@
+.item-page {
+    background-color: palegreen;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .item-list-wrap {
+        width: 50%;
+        height: 400px;
+    }
+    
+    .item-details-wrap {
+        height: 400px;
+        width: 50%;
+    }
+}
